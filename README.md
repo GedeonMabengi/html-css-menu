@@ -2,10 +2,6 @@
 
 Ce dépôt contient le code source pour un menu déroulant simple créé en utilisant uniquement HTML et CSS.
 
-## Aperçu
-
-![Aperçu du menu déroulant](lien-vers-une-capture-d-ecran)
-
 ## Fonctionnalités
 
 - Menu déroulant simple et élégant
@@ -31,9 +27,9 @@ Ce dépôt contient le code source pour un menu déroulant simple créé en util
 
 3. Intégrez le code HTML et CSS dans votre projet web en copiant les parties nécessaires.
 
-4. Contributions
+## Contributions
 Les contributions sont les bienvenues ! Si vous avez des suggestions d'amélioration ou des corrections, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-5. Licence
+## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 N'hésitez pas à personnaliser ce contenu en fonction des spécificités de votre projet.
